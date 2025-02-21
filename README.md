@@ -18,3 +18,8 @@ Then install the requirements
 
 You can finally run the app in its directory
 ```streamlit run app.py```
+
+*P.S We added a folder for differences between ai and real images after analyzing the images*
+![Image](https://github.com/user-attachments/assets/4b41d69e-746f-4a0f-8b47-92876a557b2f)
+
+![Image](https://github.com/user-attachments/assets/1a9bfbea-1e48-4cf6-8aa3-d8a5fecba90e)
