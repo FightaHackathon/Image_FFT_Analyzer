@@ -3,7 +3,7 @@
 
 I have also added a demo so that it can train a model using the same method for the images but keep in mind that it is a demo so integrating more features into it and advanced methods will be better for making datasets for model.
 
-Thanks for downloading my project and trying it out! Special contribution from ako Mattral too!
+Made as a project for the engineering mathematics project
 
 To start running this app 
 
@@ -20,6 +20,4 @@ You can finally run the app in its directory
 ```streamlit run app.py```
 
 *P.S We added a folder for differences between ai and real images after analyzing the images*
-![Image](https://github.com/user-attachments/assets/4b41d69e-746f-4a0f-8b47-92876a557b2f)
 
-![Image](https://github.com/user-attachments/assets/1a9bfbea-1e48-4cf6-8aa3-d8a5fecba90e)
