@@ -12,4 +12,5 @@ To start running this app
 Then run the following lines in command prompt of that directory
 
 ```pip install streamlit```
+Then install the requirements
 ```pip install -r requirements.txt```
