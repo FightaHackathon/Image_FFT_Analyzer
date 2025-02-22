@@ -7,18 +7,16 @@ Made as a project for the engineering mathematics project
 
 ## Installation
 
-1. Go to directory first
-```cd Image_FFT_Analyzer ```
+1. ```cd Image_FFT_Analyzer ```
 
-```pip install streamlit```
+2. ```pip install streamlit```
 
-Then install the requirements
-```pip install -r requirements.txt```
+3. ```pip install -r requirements.txt```
 
-You can finally run the app in its directory
-```streamlit run app.py```
+4. ```streamlit run app.py```
 
 ### Important Notes
-1.The model training is a demo and the data can be easily overfit so highly recommend to add more features and more dataset.
-2.We added a folder for differences between ai and real images after analyzing 50 total images*
+1. The model training is a demo and the data can be easily overfit so highly recommend to add more features and more dataset.
+
+2. We added a folder for differences between ai and real images after analyzing 50 total images*
 
