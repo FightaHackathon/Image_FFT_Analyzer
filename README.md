@@ -15,6 +15,13 @@ Made as a project for the engineering mathematics project
 
 4. ```streamlit run app.py```
 
+## Files
+
+1. ```app.py``` : Main streamlit and python file that runs fft and ift along with cnn for image analyzing
+
+2. ```train_cnn.py```: File that outputs a training data and model weights for an ai model
+
+
 ### Important Notes
 - The model training is a demo and the data can be easily overfit so highly recommend to add more features and more dataset.
 
