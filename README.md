@@ -16,7 +16,7 @@ Made as a project for the engineering mathematics project
 4. ```streamlit run app.py```
 
 ### Important Notes
-1. The model training is a demo and the data can be easily overfit so highly recommend to add more features and more dataset.
+- The model training is a demo and the data can be easily overfit so highly recommend to add more features and more dataset.
 
-2. We added a folder for differences between ai and real images after analyzing 50 total images*
+- We added a folder for differences between ai and real images after analyzing 50 total images*
 
